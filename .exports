@@ -20,3 +20,10 @@ export MANPAGER="less -X";
 
 # Always enable colored `grep` output
 export GREP_OPTIONS="--color=auto";
+
+ANDROID_HOME=~/android-sdk/platform-tools:~/android-ndk-r8c
+GRADLE_HOME=~/dev/gradle-1.10/bin
+KARMA_HOME=/usr/local/lib/node_modules/karma/bin
+O_TOOL=/Applications/Xcode.app/Contents/Developer/usr/bin
+LOCAL_BIN=/usr/local/bin
+GIT_FLOW=/usr/bin/git
